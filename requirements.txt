@@ -1,0 +1,14 @@
+diffusers
+transformers
+accelerate
+sentencepiece>=0.2.0 # T5 used
+numpy==1.26.0
+streamlit>=1.38.0 # For streamlit web demo
+imageio==2.34.2 # For diffusers inference export video
+imageio-ffmpeg==0.5.1 # For diffusers inference export video
+moviepy==1.0.3 # For export video
+pillow==9.5.0
+safetensors
+einops
+triton
+torchdiffeq

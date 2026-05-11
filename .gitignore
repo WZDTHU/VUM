@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+*.json
+*.svg
+/checkpoints
+/workdir
+/datasets
+/data
+/wandb
+.cursor
+/projects/evaluate/seg/workdir
+/projects/evaluate/det/workdir
