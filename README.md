@@ -37,13 +37,13 @@ cd flash-attention/hopper && python setup.py install
 ## Training
 
 ```bash
-bash train.sh
+bash scripts/train.sh
 ```
 
 ## Sampling
 
 ```bash
-bash sample.sh
+bash scripts/sample.sh
 ```
 
 ## Evaluation
